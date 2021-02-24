@@ -1,6 +1,6 @@
 # **Bootcamp Inter Java Developer**
 
-> Nesse diretório sera armazenado uma serie de anotações relacionados aos cursos presentes no Bootcamp. A criação do próprio diretório é uma atividade pratica do curso de Git e Github.
+> Nesse diretório sera armazenado uma serie de anotações e comandos relacionados aos cursos presentes no Bootcamp. A criação do próprio diretório é uma atividade pratica do curso de Git e Github.
 
 Segue a lista de conteúdo do Bootcamp e a possível lista de anotações (Como o curso esta sendo feito, o repositório vai ser atualizado ao decorrer do tempo):
 
