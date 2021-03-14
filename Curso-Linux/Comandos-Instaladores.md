@@ -1,4 +1,6 @@
-### **GERENCIADORES**
+# Gerenciadores De Pacores
+
+## Gerenciadores
 
 - **apt** (Gerenciador de pacotes do sistema)
 - **dpkg** (Gerenciador de pacotes do sistema do tipo deb) 
@@ -6,7 +8,7 @@
 - **yum** (Gerenciador de pacotes Fedora)
 
 ---
-### **PACOTES**
+## Pacotes
 
 - apt
     - **sudo apt install \<pacote>** (Instalação)
@@ -26,10 +28,14 @@
     - **sudo yum remove \<pacote>** (Remoção)
 
 ---	
-### **SITES DE PACOTES**
+## Sites Utilizados
+
 - **pkgs.org**
 - **rpm.pbone.net**
 
 ---
-### **ATUALIZAÇÃO DE SISTEMA**
-- **sudo apt update && apt upgrade**
+## Atualização do Sistema
+
+```
+$ sudo apt update && apt upgrade
+```

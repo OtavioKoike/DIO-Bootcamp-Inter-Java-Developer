@@ -1,7 +1,13 @@
-### **COMANDOS**
+# Comandos de Compactação
 
-- Instalação
-	- sudo apt install rar
+## Instalação
+
+```
+$ sudo apt install rar
+```
+
+---
+## Comandos
 
 - Compactar arquivo
     - **gzip \<arquivo.tipo>** (Excelente taxa de compactação)

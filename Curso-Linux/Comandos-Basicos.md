@@ -1,5 +1,6 @@
+# Comandos Basicos no Terminal Linux
 
-### **DIRETORIOS**
+## Diretorios
 
 - **/** (Raiz)
 - **/bin/** (Binarios, executaveis)
@@ -19,7 +20,7 @@
 - **/proc/** (Diretorio virtual controlado pelo kernel)
 
 ---
-### **COMANDOS**
+## Comandos
 
 - Comando Como Administrador
     - **sudo \<comando>**
@@ -88,7 +89,8 @@
 	- **alias \<atalho>='\<comando>'**
 
 ---
-### **Manipulação de Arquivos de Texto**
+## Manipulação de Arquivos de Texto
+
 - **nano \<arquivo>** (Editor de texto)
 - **vi \<arquivo>** (Editor de texto)
 - **cat \<arquivo>** (Exibe o conteudo)
@@ -105,7 +107,8 @@
 - **wc -m \<arquivo>** (Exibe a quantidade de caracteres no arquivo)
 - **sort -n \<arquivo>** (Organiza a saida do arquivo em ordem numerica)
 
-### **Comando de redirecionamento**
+## Comando de redirecionamento
+
 (Redireciona a saida de um comando para outro)  
 - **|** (Permite a execução de dois comandos)
 - **\>** (Criar/substituir no arquivo)
@@ -114,21 +117,23 @@
 - **&** (Permite usar dois comandos com duas saidas no terminal)(Quebra os processos)
 - **&&** (Permite usar dois comandos com uma saida no terminal) (Executa os dois concecutivos)
 
-### **Manipulação de Diretorios e Arquivos**
+## Manipulação de Diretorios e Arquivos
+
 - **file \<nome>** (Exibe o tipo)
 - **find \<diretorioInicial> -name "<nome>"** (Exibe o caminho a partir do diretorio)
 - **find \<diretorioInicial> -name "<nome>*"** (Exibe o caminho a partir do diretorio com o comeco do nome)
 - **whichis \<arquivo>** (Exibe o caminho)
 - **whereis \<arquivo>** (Exibe o caminho e seu manual)
 
-### **Calendario e Data**
+## Calendario e Data
+
 - **cal** (Calendario do mes atual)
 - **cal \<ano>** (Calendario do ano especifico)
 - **cal \<mes> \<ano>** (calendaro do mes e ano especifico)
 - **date** (Data Atual)
 
 ---
-### **COMANDOS DE DIRETORIOS**
+## Comandos de Diretorios
 
 - Informações 
     - **lscpu** (Processador)
@@ -163,7 +168,7 @@
 	- **last reboot** (Informações sobre reinicialização do sistema)
 	
 ---
-### A**TALHOS**
+## Atalhos
 
 - Acesso ao terminal
 	- **Ctrl + Alt + T**
@@ -195,7 +200,7 @@
 	- **logout**
 
 ---
-### **DICAS**
+## Dicas
 
 - Seta para cima roda a lista de comandos feitos
 
@@ -212,14 +217,16 @@
 	- **echo -e "\<frase> \n>"** (Saida no terminal com caracteres de formatação)
 
 ---
-### **INSTALAÇÕES**
+## Instalações
 
-- **sudo apt install cowsay (Vaquinha)**
-- **sudo apt install xcowsay (Vaquinha 3D)**
-- **sudo apt install cmatrix (Matrix)**
+```
+$ sudo apt install cowsay
+$ sudo apt install xcowsay
+$ sudo apt install cmatrix
+```
 
 ---
-### **DEMAIS COMANDOS**
+## Demais Comandos
 
 - Tempo 
     - **time \<comando>** (Tempo que que um comando leva para ser processado)
@@ -240,7 +247,7 @@
 	- **seq \<numeroInicial> \<numeroFinal>** (Imprime sequencia de numeros)
 
 ---
-### **VARIAVEIS DE AMBIENTE**
+## Variaveis de Ambiente
 	
 - env (Exibir todas Variaveis de ambiente)
 - PS1 (Prompt da linha de comando)

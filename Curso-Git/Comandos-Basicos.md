@@ -1,4 +1,7 @@
-### **Comandos Terminal Windows**
+# Comandos Basicos Git no Terminal
+
+## Comandos Terminal Windows
+
 - **cd** (Navegar por Diretorios)
 - **dir** (Listar Arquivos e Diretorios)
 - **mkdir** (Criar Diretorios)
@@ -8,7 +11,7 @@
 - **cls** (Limpar a tela)
 
 ---
-### **Objetos Internos Git**
+## Objetos Internos Git
 - Blobs 
     - (Bolhas - Onde arquivos ficam guardados, possui metadados)
     - (Tipo blob, Tamanho, \0, Conteudo)
@@ -23,7 +26,7 @@
 	- (Gera um sha1)
 
 ---
-#### **Comandos GIT**
+## Comandos GIT
 - **git init** (Inicializa um repositorio dentro da pasta)
 - **git add** (Mover arquivos e dar inicio ao versionamento)
     - **git add ***
@@ -38,7 +41,7 @@
 - **git config --global user.nickname** (Setar nickname)
 
 ---
-### **Comandos GITHUB**
+## Comandos GITHUB
 - **git remote add origin \<url>** (Apontar repositorio local para github)
 - **git remote -v** (Listar repositorios cadastrados)
 - **git push origin master**(Levar repositorio local para Github)
@@ -46,6 +49,6 @@
 - **git clone \<url>** (Clonar repositorio do Github)
 
 ---
-### **Dica**
+## Dica
 - Visualização do Arquivo Markdown no VS Code
 	- **Ctrl + Shift + V**

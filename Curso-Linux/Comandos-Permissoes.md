@@ -1,4 +1,6 @@
-### **COMANDOS**
+# Comandos de Permissoes
+
+## Comandos
 
 - **adduser \<nomedousuario>** (Adicionar Usuario)
 - **sudo su \<nomedousuario>** (Trocar Usuario root)
@@ -13,8 +15,9 @@
 - **userdel -r \<nomedousuario>** (Remover um usuario e a pasta pessoal do mesmo)
 
 ---
-### **GRUPOS**
-- **cat/etc/group (Exibir todos grupos do sistema)
+## Grupos
+
+- **cat/etc/group** (Exibir todos grupos do sistema)
 - **groups** (Exibir todos os grupos de um usuario)
 - **addgroup \<nomegrupo>** (Adicionar Grupo)
 - **adduser \<usuario> \<grupo>** (Adicionar usuario ao grupo)
@@ -23,7 +26,7 @@
 - **groupdel \<grupo>** (Remover Grupo)
 
 ---
-### **PERMISSÕES**
+## Permissoes
 
 r - Read - 4  
 w - Write - 2  
