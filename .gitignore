@@ -1,5 +1,7 @@
 # Builds Projetos
 /Projetos/desenvolvimento-basico/build
 
+/.idea
+
 *.so
 *.class
