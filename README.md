@@ -4,13 +4,13 @@
 
 Segue a lista de conteúdo do Bootcamp e a possível lista de anotações (Como o curso esta sendo feito, o repositório vai ser atualizado ao decorrer do tempo):
 
-- <span style="color:green">Linux: Introdução ao Sistema Operacional</span>
-- <span style="color:green">Shell Script - Manipulando Arquivos</span>
-- <span style="color:green">Introdução ao Git e ao Github</span>
-- <span style="color:green">Aprenda o que são Estruturas de Dados e Algoritmos</span>
-- <span style="color:green">Desenvolvimento Básico em Java</span>
-- <span style="color:green">Solucionando Problemas Basicos em Java</span>
-- Implementando Collections e Streams com Java
+- <span style="color:green"> Linux: Introdução ao Sistema Operacional </span>
+- <span style="color:green"> Shell Script - Manipulando Arquivos </span>
+- <span style="color:green"> Introdução ao Git e ao Github </span>
+- <span style="color:green"> Aprenda o que são Estruturas de Dados e Algoritmos </span>
+- <span style="color:green"> Desenvolvimento Básico em Java </span>
+- <span style="color:green"> Solucionando Problemas Basicos em Java </span>
+- <span style="color:green"> Implementando Collections e Streams com Java </span>
 - Desenvolvimento Avancado em Java
 - Praticando Programação em Java
 - Introdução ao Framework Spring Boot
