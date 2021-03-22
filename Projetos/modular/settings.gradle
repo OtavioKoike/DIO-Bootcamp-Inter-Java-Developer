@@ -1,0 +1,4 @@
+rootProject.name = 'modular'
+include 'one.innovation.digital.core'
+include 'one.innovation.digital.utils'
+

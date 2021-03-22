@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/one.innovation.digital.core" />
+            <option value="$PROJECT_DIR$/one.innovation.digital.utils" />
           </set>
         </option>
       </GradleProjectSettings>
