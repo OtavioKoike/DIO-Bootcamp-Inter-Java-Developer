@@ -4,6 +4,9 @@
 /Projetos/desenvolvimento-avancado/build
 /Projetos/modular/build
 
+#Builds Desafios
+/Desafios/praticando-java/build
+
 /.idea
 
 *.so
