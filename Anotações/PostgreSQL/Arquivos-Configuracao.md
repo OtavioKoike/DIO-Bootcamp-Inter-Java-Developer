@@ -1,8 +1,8 @@
-#  Arquivos de Configurações
+# Arquivos de Configurações
 
 ## O arquivo Postgresql.conf
 
-Arquico onde estão definidas e armazenadas todas as configurações do servidor PostgreSQL. Algunsparametros só podem ser alterados com uma reiniciação do banco de dados. A view pg_settings, acessada por dentro do banco de dados, guarda todas as configurações atuais.
+Arquivo onde estão definidas e armazenadas todas as configurações do servidor PostgreSQL. Algunsparametros só podem ser alterados com uma reiniciação do banco de dados. A view pg_settings, acessada por dentro do banco de dados, guarda todas as configurações atuais.
 
 ### Localização
 

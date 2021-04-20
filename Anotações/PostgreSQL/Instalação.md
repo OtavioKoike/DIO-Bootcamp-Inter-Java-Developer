@@ -2,7 +2,7 @@
 
 ## Instalação PostgreSQL
 
-https://www.postgresql.org/download/
++ https://www.postgresql.org/download/
 
 Como root
 
@@ -33,7 +33,7 @@ sudo apt-get -y install postgresql
 ```
 
 ---
-### Cluster
+## Cluster
 
 Criar 
 
@@ -48,7 +48,7 @@ pg_lsclusters
 ```
 
 ---
-Mudar para usuario Postgres
+## Mudar para usuario Postgres
 
 > Inicialmente é preciso estar no root
 
@@ -82,7 +82,7 @@ ALTER USER postgres PASSWORD '<senha>';
 
 ## Instalação PgAdmin
 
-https://www.pgadmin.org/download
++ https://www.pgadmin.org/download
 
 Intale a chave publica para o repositorio:
 

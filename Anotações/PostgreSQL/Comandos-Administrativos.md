@@ -20,9 +20,10 @@ Start, Stop, Status, Restart de cluster
 pg_ctlcluster <version> <cluster> <action>
 ```
 
+> Os comandos citados no curso estão em formato .sql no projeto [postgreSQL](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/postgreSQL)
+
 ---
 ## Binarios do PostgreSQL
-
 - createbd
 - createuser
 - dropdb
