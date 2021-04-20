@@ -6,8 +6,8 @@
 Java.util.List
 ```
 
-### Implementacoes
-- java.util.ArrayList   
+### Implementações
+- java.util.ArrayList
 - java.util.Vector
 
 ### Caracteristicas
@@ -15,7 +15,7 @@ Java.util.List
 - Permite adicao, atualizacao, leitura e remoção sem regras adicionais
 - Permite ordenacao araves de comparators
 
-> (Comandos no projeto **collections-streams**)
+> Comandos no projeto [collections-streams](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/collections-streams)
 
 --- 
 ## Queue
@@ -33,7 +33,7 @@ Java.util.Queue
 - Permite adicao, leitura e remoção considerando a regra basica de uma fila: Primeiro que entra, primeiro - que sai.
 - Não permite mudanca de ordenação
 
-> (Comandos no projeto **collections-streams**)
+> Comandos no projeto [collections-streams](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/collections-streams)
 
 ---
 ## Set
@@ -56,7 +56,7 @@ Java.util.Set
 - Permite adição e remoção normalmente. Não possui busca por item e atualização. Para leitura, apenas navegação.
 - Não permite mudanca de ordenacao
 
-> (Comandos no projeto **collections-streams**)
+> Comandos no projeto [collections-streams](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/collections-streams)
 
 ### HashSet
 - Quando Utilizar
@@ -88,6 +88,7 @@ Java.util.Set
 ```
 java.util.Map
 ```
+
 > Nao extende de Collections
 
 ### Implementações
@@ -102,4 +103,4 @@ java.util.Map
 - Permite adicao, busca por chave ou valor, atualização, remocao e navegacao
 - Pode ser ordenado
 
-> (Comandos no projeto **collections-streams**)
+> Comandos no projeto [collections-streams](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/collections-streams)

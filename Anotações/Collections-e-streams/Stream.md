@@ -11,4 +11,5 @@ Imutavel - não altera a colecao origem, sempre cria uma nova colecao
 - **Peek** - Executa uma determinada logica para cada elemento, retornando a propria coleção
 - **Counting** - Retorna um inteiro que representa a contagem de elementos.
 - **Grouping** - Retorna uma coleção agrupada de acordo com a regra definida
-> (Comandos no projeto **collections-streams**)
+
+> Comandos no projeto [collections-streams](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/collections-streams)
