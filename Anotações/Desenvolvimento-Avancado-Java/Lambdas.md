@@ -23,4 +23,4 @@ InterfaceFuncional nomeVariavel = parametro -> logica
 Quando uma lambda possui apenas uma instrucao no corpo de sua logica não é necessario o uso de chaves
 Se a funcao possui mais de uma instrucao DEVEMOS utilizar chaves e alem disse deve explicitar o retorno se o retorno for diferente de void
 
-> codigo no projeto Desenvolvimento Avancado
+> codigo no projeto [desenvolvimento-avancado](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-avancado)

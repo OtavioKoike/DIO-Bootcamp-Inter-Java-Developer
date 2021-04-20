@@ -23,14 +23,14 @@ Damos uma regra, uma declaracao de como queremos que o programa se comporte
 
 É chamada de pura quando invocada mais de uma vez produz exatamente o mesmo resultado
 
-> codigo no projeto Desenvolvimento Avancado
+> codigo no projeto [desenvolvimento-avancado](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-avancado)
 
 ---
 ### Imutabilidade
 
 Significa que uma vez que uma variavel recebeu um valor, vai possuir esse valor para sempre, ou quando criamos um objeto ele nao pode ser modificado
 
-> codigo no projeto Desenvolvimento Avancado
+> codigo no projeto [desenvolvimento-avancado](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-avancado)
 
 ---
 ### Imperativo x Declarativo
@@ -39,4 +39,4 @@ Significa que uma vez que uma variavel recebeu um valor, vai possuir esse valor 
 
 Na programação funcional tentamos programar de forma declarativa, onde declaramos o que desejamos, sem explicitar como sera feito. Qual o usuario 15? Quais os erros dessas informacoes?
 
-> codigo no projeto Desenvolvimento Avancado
+> codigo no projeto [desenvolvimento-avancado](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-avancado)

@@ -11,4 +11,4 @@ Obs: a JVM não suporta a recursao em cauda, ele lança um estouro de pilha (Sta
 ## Memoization
 É uma tecnica de otimizacao que consiste no cache do resultado de uma funcao, baseado nos parametros de entrada. Co isso, nas seguintes execucoes conseguimos ter uma resposta mais rapida
 
-> codigo no projeto Desenvolvimento Avancado
+> codigo no projeto [desenvolvimento-avancado](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-avancado)
