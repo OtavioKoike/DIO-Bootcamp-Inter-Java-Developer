@@ -1,8 +1,8 @@
 # O que é Spring Boot
 
-Facilita o setup de projetos Spring
-Sem necessidade de criar arquivos de configuração
-Foco em produtividade
+Facilita o setup de projetos Spring \
+Sem necessidade de criar arquivos de configuração \
+Foco em produtividade\
 Maior tempo no desenvolvimento
 
 ## Problemas do Spring
@@ -20,8 +20,15 @@ Maior tempo no desenvolvimento
 - Valor: mais tempo em desenvolvimento
 
 ---
+## Arquivo de Configuração
+
+```
+Application.properties
+```
+
+---
 ## Gerar projeto
 
-https://start.spring.io/
++ https://start.spring.io/
 
-> (Comandos no projeto **spring-boot**)
+> codigo no projeto [spring-boot](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/springboot)

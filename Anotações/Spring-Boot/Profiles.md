@@ -20,7 +20,7 @@
 Definir qual profile sera usado
 
 ```
-spring.profiles.active = dev //dev ou prod ... 
+spring.profiles.active = dev    //dev ou prod ... 
 ``` 
 
 No aplication (Exemplo Dev)
@@ -37,4 +37,4 @@ spring:
     password: sa
 ```
 
-> (Comandos no projeto **spring-boot**)
+> codigo no projeto [spring-boot](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/springboot)
