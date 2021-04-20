@@ -40,4 +40,4 @@ O JPA Metamodel provê a habilidade de examinar o modelo de persistência de um 
 
 Sem o JPA Metamodel, os atributos serão referenciados através de Strings, tendo como principal desvantagem o risco de ocorrer algum error em tempo de execução para o usuário final.
 
-
+> Comandos no projeto [jdbc-jpa](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/jdbc-jpa)

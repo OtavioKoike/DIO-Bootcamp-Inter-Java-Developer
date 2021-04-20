@@ -50,7 +50,7 @@ EclipseLink é um projeto open source de persistência da Eclipse Foundation. El
 ## Download Drivers
 
 
-https://mvnrepository.com/artifact/mysql/mysql-connector-java
++ https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 Colococar JDBC nas dependencias do build.gradle:
 
@@ -58,7 +58,7 @@ Colococar JDBC nas dependencias do build.gradle:
 implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.23'
 ```
 
-https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api
++ https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api
 
 Colococar JPA nas dependencias do build.gradle:
 
@@ -70,7 +70,7 @@ implementation group: 'javax.persistence', name: 'javax.persistence-api', versio
 
 > Usar um ou outro
 
-https://mvnrepository.com/artifact/org.hibernate/hibernate-core
++ https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 
 Colococar Hibernate nas dependencias do build.gradle:
 
@@ -78,7 +78,7 @@ Colococar Hibernate nas dependencias do build.gradle:
 implementation group: 'org.hibernate', name: 'hibernate-core', version: '5.4.30.Final'
 ```
 
-https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink
++ https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink
 
 Colococar EclipseLink nas dependencias do build.gradle:
 
@@ -91,4 +91,4 @@ implementation group: 'org.eclipse.persistence', name: 'eclipselink', version: '
 
 Criar o arquivo persistence.xml e configurar os seguintes parâmetros: URL da string de conexão (driver, endereço do BD e nome do BD), usuário do BD, senha do BD, driver e classes que serão mapeadas para serem usadas pelo JPA.
 
-> (Comandos no projeto **jdbc-jpa**)
+> Comandos no projeto [jdbc-jpa](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/jdbc-jpa)

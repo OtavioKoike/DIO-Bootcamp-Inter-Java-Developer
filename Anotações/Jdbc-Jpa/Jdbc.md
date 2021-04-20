@@ -10,9 +10,10 @@ Sem a API JDBC, seria necessário conhecer o protocolo proprietário de cada ban
 
 **Interface Connection** – Representa a conexão com o banco de dados. Permite criar “Statements” que constroem consultas SQL.
 
+---
 ## Download Drivers
 
-https://mvnrepository.com/artifact/mysql/mysql-connector-java
++ https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 Colococar nas dependencias do build.gradle:
 
@@ -20,4 +21,4 @@ Colococar nas dependencias do build.gradle:
 implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.23'
 ```
 
-> (Comandos no projeto **jdbc-jpa**)
+> Comandos no projeto [jdbc-jpa](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/jdbc-jpa)
