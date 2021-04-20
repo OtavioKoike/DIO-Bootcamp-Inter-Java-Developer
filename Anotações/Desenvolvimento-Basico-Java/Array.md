@@ -30,4 +30,4 @@ dataType[][] arrayName = {{value0N, ..., valueMN}, {value0M, ..., value NM}}
 arrayName.length
 ```	
 
-> (Comandos no projeto **desenvolvimento-basico**)
+> Comandos no projeto [desenvolvimento-basico](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-basico)
