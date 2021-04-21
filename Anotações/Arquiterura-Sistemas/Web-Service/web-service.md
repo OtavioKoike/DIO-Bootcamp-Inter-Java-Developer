@@ -10,4 +10,3 @@ Servicos Web ou Web Services são soluções para aplicações se comunicarem in
 - Reutilizaçao de implementação
 - Segurança
 - Custos
-

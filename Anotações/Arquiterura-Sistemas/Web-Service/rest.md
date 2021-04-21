@@ -12,6 +12,10 @@
 - Arquitetura de facil compreensão.
 
 ---
+## Arquitetura
+
+O cliente faz uma requisição HTTP (GET, POST, PUT, DELETE ...) ao servidor.\
+O servidor retorna um codigo de operação, retorna uma mensagem (Texto, JSON, XML ...)
 ## API
 
 > Application Programming Interface
