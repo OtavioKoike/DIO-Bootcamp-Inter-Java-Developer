@@ -20,7 +20,7 @@ Comportamentos/funções de uma classe.
 ### Construtores
 Construir um objeto
 
-> (Comandos no projeto **desenvolvimento-basico**)
+> Comandos no projeto [desenvolvimento-basico](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-basico)
 	
 ---
 ## Pilares da Linguagem
@@ -34,7 +34,7 @@ Essa é a capacidade de uma Classe herdar o comportamento de outra
 ### Polimorfismo
 Quando falamos de polimorfismos, estamos querendo entrar em um cenario onde um objeto pode ser referenciado de varis maneiras.
 
-> (Comandos no projeto **desenvolvimento-basico**)
+> Comandos no projeto [desenvolvimento-basico](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-basico)
 	
 ---
 ## Mais Caracteristicas
@@ -51,4 +51,4 @@ Serve para fazer comparações entre objetos
 ### HashCode
 Precisamos pensar em um codigo gerado que garanta um carater unico ao nosso objeto
 
-> (Comandos no projeto **desenvolvimento-basico**)
+> Comandos no projeto [desenvolvimento-basico](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-basico)

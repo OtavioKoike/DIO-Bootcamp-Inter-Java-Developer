@@ -3,10 +3,13 @@
 ## Novo Projeto Pelo Terminal
 
 ```
-$ mkdir hello-java
-$ cd hello-java
-$ nano Hello.java
+mkdir hello-java
+cd hello-java
+nano Hello.java
 ```
+
+---
+## Codigo Projeto
 
 ```
 public class Hello{
@@ -16,8 +19,17 @@ public class Hello{
 }
 ```
 
+---
+## Compilando Projeto Pelo Terminal
+
 ```
 java -version
 javac Hello.java
 java Hello
+```
+
+---
+## Executar Jar Pelo Terminal
+```
+java -jar path/arquivo.jar
 ```

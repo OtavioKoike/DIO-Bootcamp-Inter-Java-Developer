@@ -46,4 +46,4 @@ Uma classe não deve ser forçada a implementar interfaces e metodos que nao ser
 > "Dependa de abstrações e nao de implementações"
 Um modulo de alto nivel não deve depender de modulos de baixo nivel, ambos devem depender da abstracao. Na pratica, devemos sempre depender de interfaces, não de classes concretas.
 
-> (Comandos no projeto **desenvolvimento-basico**)
+> Comandos no projeto [desenvolvimento-basico](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Projetos/desenvolvimento-basico)

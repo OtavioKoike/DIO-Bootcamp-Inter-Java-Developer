@@ -18,15 +18,19 @@ Uma maquina virtual, é um software que simula uma maquina fisica. A JVM é a ma
 ---
 ## O que é JRE? 
 Java Runtime Environment, ou Ambiente de Execução do Java, é composto pela JVM, bibliotecas APIs da linguagem Java e outros componentes para suporte da plataforma Java.
+
 ```	
-$ sudo apt-get install openjdk-8-jre
+sudo apt-get install openjdk-8-jre
 ```
+
 ---
 ## O que é a JDK?
 Java Development Kit, Kit de Desenvolvimento Java, é um conjunto de utilitarios que permitem criar software para a plataforma Java. É composto pelo compilador Java, bibliotecas da linguagem, ferramentas e a JRE.
+
 ```	
-$ sudo apt-get install openjdk-8-jdk
+sudo apt-get install openjdk-8-jdk
 ``` 
+
 ---
 ## O que é Java SE?
 Java Standard Edition, é a distribuicao minima da plataforma de desenvolvimento de aplicacoes Java.

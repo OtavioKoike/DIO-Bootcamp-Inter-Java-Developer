@@ -5,16 +5,17 @@
 > Verificar versão mais atualizada
 
 ```
-$ sudo add-apt-repository ppa:linuxuprising/java
-$ sudo apt update
-$ sudo apt-get install oracle-java15-installer
+sudo add-apt-repository ppa:linuxuprising/java
+sudo apt update
+sudo apt-get install oracle-java15-installer
 
-$ export JAVA_HOME="/usr/lib/jvm/java-15-oracle"
-$ export PATH=$JAVA_HOME/bin:$PATH
+export JAVA_HOME="/usr/lib/jvm/java-15-oracle"
+export PATH=$JAVA_HOME/bin:$PATH
 
-$ java --version
+java --version
 ```
 
+---
 ## Ferramentas de build
 
 ### Gradle
@@ -27,12 +28,12 @@ $ java --version
 - Usa linguagem de programação Groovy
 
 ``` 
-$ mkdir /opt/gradle
-$ unzip -d /opt/gradle gradle-6.8.3-bin.zip
-$ ls /opt/gradle/gradle-6.8.3
-$ export PATH=$PATH:/opt/gradle/gradle-6.8.3/bin
+mkdir /opt/gradle
+unzip -d /opt/gradle gradle-6.8.3-bin.zip
+ls /opt/gradle/gradle-6.8.3
+export PATH=$PATH:/opt/gradle/gradle-6.8.3/bin
 
-$gradle -v
+gradle -v
 ```
 
 ### Maven
@@ -45,28 +46,29 @@ $gradle -v
 > Verificar versão mais atualizada
 
 ```
-$ mkdir /opt/maven
-$ unzip -d /opt/maven apache-maven-3.6.3-bin.zip
-$ ls opt/maven/apache-maven-3.6.3
-$ export PATH=$PATH:/opt/maven/apache-maven-3.6.3/bin
+mkdir /opt/maven
+unzip -d /opt/maven apache-maven-3.6.3-bin.zip
+ls opt/maven/apache-maven-3.6.3
+export PATH=$PATH:/opt/maven/apache-maven-3.6.3/bin
 
-$ mvn -v
+mvn -v
 ```
 
 ### Wrappers
 + https://github.com/takari/maven-wrapper
 + https://docs.gradle.org/current/userguide/gradle_wrapper.html
 
+> Garante a mesma versão para todos os desenvolvedores
+
 ```
-$ gradle wrapper
-$ ./gradlew -v
+gradle wrapper
+./gradlew -v
 
-$ mvn -N io.takari:maven:wrapper
-$ ./mvnw -v
+mvn -N io.takari:maven:wrapper
+./mvnw -v
 ```
 
-- Garante a mesma versão para todos os desenvolvedores
-
+---
 ## Instalando o IntelliJ
 
 + https://www.jetbrains.com/idea/download
@@ -74,7 +76,7 @@ $ ./mvnw -v
 > Verificar versão mais atualizada
 
 ```
-$ sudo tar -xzf ideaIC-2020.3.2.tar.gz
-$ cd idea-IC-203.7148.57/bin/
-$ ./idea.sh
+sudo tar -xzf ideaIC-2020.3.2.tar.gz
+cd idea-IC-203.7148.57/bin/
+./idea.sh
 ```
