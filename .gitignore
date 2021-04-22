@@ -8,8 +8,9 @@
 /Projetos/jdbc-jpa/build
 
 #Builds Desafios
-/Desafios/praticando-java/build
 /Desafios/problemas-basicos/build
+/Desafios/praticando-java/build
+/Desafios/aritmeticos/build
 
 /.idea
 
