@@ -5,9 +5,11 @@
 /Projetos/modular/build
 /Projetos/springboot/build
 /Projetos/testes-unitarios/buid
+/Projetos/jdbc-jpa/build
 
 #Builds Desafios
 /Desafios/praticando-java/build
+/Desafios/problemas-basicos/build
 
 /.idea
 
